@@ -14,8 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="199" column="45" lean-forward="true" selection-start-line="199" selection-start-column="45" selection-end-line="199" selection-end-column="45" />
+            <state relative-caret-position="221">
+              <caret line="271" column="127" lean-forward="false" selection-start-line="271" selection-start-column="127" selection-end-line="271" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -243,12 +243,13 @@
       <workItem from="1523980320106" duration="1631000" />
       <workItem from="1523997047091" duration="125000" />
       <workItem from="1524000167527" duration="74000" />
-      <workItem from="1524000462596" duration="98000" />
+      <workItem from="1524000462596" duration="741000" />
+      <workItem from="1524003858625" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19303000" />
+    <option name="totallyTimeSpent" value="20575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1930" height="1040" extended-state="0" />
@@ -295,6 +296,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/resume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -567,8 +584,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="199" column="45" lean-forward="true" selection-start-line="199" selection-start-column="45" selection-end-line="199" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="271" column="127" lean-forward="false" selection-start-line="271" selection-start-column="127" selection-end-line="271" selection-end-column="127" />
           <folding />
         </state>
       </provider>
