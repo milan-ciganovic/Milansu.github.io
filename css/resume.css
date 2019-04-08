@@ -145,22 +145,6 @@ a:hover, a:focus, a:active {
   color: #d7f1f1;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .row > .column {
   padding: 0 8px;
 }
@@ -176,7 +160,11 @@ a:hover, a:focus, a:active {
   float: left;
   width: 25%;
 }
-
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 /* The Modal (background) */
 .modal {
   display: none;
