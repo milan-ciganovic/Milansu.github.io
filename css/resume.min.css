@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-    color: #51DDF0;
+    color: #85eada;
 }
 
 .list-social-icons a .fa-lg {
@@ -130,19 +130,20 @@ section.resume-section {
 }
 
 .bg-primary {
-     background-color: #85eada !important;
+     background-color: #61c3b4 !important;
 }
 
 .text-primary {
-    color: #d7f1f1 !important;
+    color: #85eada !important;
 }
 
 a {
-    color: #d7f1f1;
+    text-decoration: underline;
+    color: #003366;
 }
 
 a:hover, a:focus, a:active {
-    color: #d7f1f1;
+    color: #85eada;
 }
 
 
